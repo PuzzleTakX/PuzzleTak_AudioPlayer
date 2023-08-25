@@ -1,0 +1,15 @@
+﻿ModuleBookmarks0=
+ModuleBookmarks1=
+ModuleBookmarks2=
+ModuleBookmarks3=
+ModuleBreakpoints0=
+ModuleBreakpoints1=
+ModuleBreakpoints2=
+ModuleBreakpoints3=
+ModuleClosedNodes0=
+ModuleClosedNodes1=
+ModuleClosedNodes2=1
+ModuleClosedNodes3=
+NavigationStack=Main,uploader_onProgress,49,0,Main,uploader_onCancel,61,0,Main,Button1_Click,74,0,Main,ioe_onDisconnect,83,0,ServiceMusic,AudioPlayer_onSeekComplete,55,0,ServiceMusic,Process_Globals,9,0,Main,io_onConnected,86,0,Main,io_onConnectError,95,0,Main,onMessage,82,4,Main,Activity_Create,29,6
+SelectedBuild=0
+VisibleModules=2,1,3

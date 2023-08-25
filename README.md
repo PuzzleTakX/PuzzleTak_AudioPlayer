@@ -55,7 +55,7 @@ The `AudioPlayer` module provides two important callback methods for handling au
   Private Sub onGetByteMusic(bytes() As Byte)
       SymmetricWaveVisualizer.RawAudioBytes = bytes
   End Sub
-
+```vbnet
 Private Sub onGetAudioSession(sessionId As Int)
     SymmetricWaveVisualizer.AudioSessionId = sessionId
 End Sub

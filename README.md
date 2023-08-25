@@ -1,10 +1,21 @@
-# AudioPlayer Library 
+# Audio Playback Library with Visualizer
 
 ## Description
 The `AudioPlayer` module is designed to handle audio playback functionality in your application. It provides methods for starting and controlling audio playback, as well as handling various events related to audio playback.
 
+## Demo new
+
+<img src="https://github.com/PuzzleTakX/PuzzleTak_AudioPlayer/blob/main/demo.jpg?raw=true" alt="image_demo" width="300" height="700">
+
+Overview
+
+This library is a versatile audio playback solution that allows you to seamlessly handle both offline and online audio content. It comes equipped with a built-in visualizer for real-time audio waveform display and an equalizer for fine-tuning audio output to meet your specific needs.
+Features
+Offline Audio Playback
+
+    Local Audio File Support: Easily play audio files stored on your device, making it perfect for music and sound effect playback in your applications.
+
 ## Usage
-To use the `AudioPlayer` module in your application, follow these steps:
 
 1. **Initialization:** Initialize the `AudioPlayer` and set the audio file path using the `StartMusic` method.
 
